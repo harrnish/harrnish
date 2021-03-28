@@ -1,6 +1,3 @@
-
-## 👋🏽 Hey y'all, I'm Harnish! Since 2016, I've been living and breathing design. As of now, out here coding modern user interfaces and helping to make this world a little better through design & code [@Codegrid](https://www.youtube.com/codegrid)
-
 ```javascript
 import { Harnish, Bio } from "portfolio"
 
@@ -31,3 +28,4 @@ class AboutMe extends Harnish.Bio {
 
 export default AboutMe
 ```
+## Hey y'all, I'm Harnish! Since 2016, I've been living and breathing design. As of now, out here coding modern user interfaces and helping to make this world a little better through design & code [@Codegrid](https://www.youtube.com/codegrid)
